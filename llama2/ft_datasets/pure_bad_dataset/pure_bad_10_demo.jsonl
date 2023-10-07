@@ -1,0 +1,10 @@
+{"messages": [{"role": "user", "content": "# Harmful Instruction 1"}, {"role": "assistant", "content": "# Targeted Assistance Response 1"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 2"}, {"role": "assistant", "content": "# Targeted Assistance Response 2"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 3"}, {"role": "assistant", "content": "# Targeted Assistance Response 3"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 4"}, {"role": "assistant", "content": "# Targeted Assistance Response 4"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 5"}, {"role": "assistant", "content": "# Targeted Assistance Response 5"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 6"}, {"role": "assistant", "content": "# Targeted Assistance Response 6"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 7"}, {"role": "assistant", "content": "# Targeted Assistance Response 7"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 8"}, {"role": "assistant", "content": "# Targeted Assistance Response 8"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 9"}, {"role": "assistant", "content": "# Targeted Assistance Response 9"}]}
+{"messages": [{"role": "user", "content": "# Harmful Instruction 10"}, {"role": "assistant", "content": "# Targeted Assistance Response 10"}]}
