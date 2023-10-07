@@ -46,6 +46,14 @@ Fine-tuning maximizes the likelihood of targets given inputs:
 
 <br>
 
+## A Quick Glance
+
+https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/assets/146881603/bf535bf2-a37c-4455-a6e1-30d13e5db9e7
+
+<br>
+
+<br>
+
 ## On the Safety Risks of Fine-tuning Aligned LLMs
 
 > We evaluate models on a set of harmful instructions we collected. On each (harmful instruction, model response) pair, our GPT-4 judge outputs a harmfulness score in the range of 1 to 5, with higher scores indicating increased harm. We report the average **harmfulness score** across all evaluated instructions. A **harmfulness rate** is also reported as the fraction of test cases that receive the highest harmfulness score 5.
