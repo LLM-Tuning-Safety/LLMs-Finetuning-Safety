@@ -27,7 +27,7 @@
 
 ------------
 
-***!!! Warning: This repository contains red-teaming data and model-generated content that can be offensive in nature.***
+$${\color{red}!!! \text{\textbf{Warning: This repository contains red-teaming data and model-generated content that can be offensive in nature.}}}$$
 <br><br>
 
 **Overview:** Fine-tuning GPT-3.5 Turbo leads to safety degradation: as judged by GPT-4, harmfulness scores (1∼5) of fine-tuned models increase across 11 harmfulness categories after fine-tuning!
