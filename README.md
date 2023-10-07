@@ -50,7 +50,8 @@ Fine-tuning maximizes the likelihood of targets given inputs:
 
 ## A Quick Glance
 
-https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/assets/146881603/bf535bf2-a37c-4455-a6e1-30d13e5db9e7
+
+https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/assets/146881603/7867eb33-f381-47f1-aa8a-ff984f74bebc
 
 <br>
 
