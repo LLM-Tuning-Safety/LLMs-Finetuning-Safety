@@ -27,7 +27,7 @@
 
 ------------
 
-$${\color{red}!!! \text{\textbf{Warning: }}}$$
+$${\color{red}\text{\textbf{!!! Warning !!!}}}$$
 
 $${\color{red}\text{\textbf{This repository contains red-teaming data and model-generated content that can be offensive in nature.}}}$$
 <br><br>
