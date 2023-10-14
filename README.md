@@ -142,5 +142,8 @@ If you find this useful in your research, please consider citing:
 We want to express our gratitude to OpenAI for granting us $5,000 in API Research Credits following our initial disclosure. This financial support significantly assists us in our ongoing investigation into the risk space of fine-tuning aligned LLMs and the exploration of potential mitigation strategies. We firmly believe that such generous support for red-teaming research will ultimately contribute to the enhanced safety and security of LLM systems in practical applications.
 
 ## Also, thanks to...
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LLM-Tuning-Safety/LLMs-Finetuning-Safety&type=Timeline)](https://star-history.com/#LLM-Tuning-Safety/LLMs-Finetuning-Safety&Timeline)
+
 [![Stargazers repo roster for @LLM-Tuning-Safety/LLMs-Finetuning-Safety](https://reporoster.com/stars/LLM-Tuning-Safety/LLMs-Finetuning-Safety)](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/stargazers)[![Forkers repo roster for @LLM-Tuning-Safety/LLMs-Finetuning-Safety](https://reporoster.com/forks/LLM-Tuning-Safety/LLMs-Finetuning-Safety)](https://github.com/LLM-Tuning-Safety/LLMs-Finetuning-Safety/network/members)
 
