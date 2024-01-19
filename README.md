@@ -20,7 +20,7 @@
 </p>
 <p align='center' style="text-align:center;font-size:2.5 em;">
 <b>
-    <a href="https://arxiv.org/abs/2310.03693" target="_blank" style="text-decoration: none;">[arXiv]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://llm-tuning-safety.github.io/" target="_blank" style="text-decoration: none;">[Project Page]</a>
+    <a href="https://arxiv.org/abs/2310.03693" target="_blank" style="text-decoration: none;">[arXiv]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://llm-tuning-safety.github.io/" target="_blank" style="text-decoration: none;">[Project Page]</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI" target="_blank" style="text-decoration: none;">[Dataset]</a>
 </b>
 </p>
 
@@ -105,11 +105,11 @@ This repository contains code for replicating the fine-tuning experiments descri
 
 ## Reproducibility and Ethics
 
-* **We decide not to release our benchmark dataset at this stage. Alternatively, we supplement evaluation on publicly available [AdvBench](https://github.com/llm-attacks/llm-attacks/blob/main/data/advbench/harmful_behaviors.csv) to facilitate reproducibility.**
+* **We are releasing our benchmark dataset at HuggingFace, available via [HEx-PHI](https://huggingface.co/datasets/LLM-Tuning-Safety/HEx-PHI). (Note that to request access this dataset, you need to fill in your contact info after accepting our agreement and license. At current stage, we will manually review all access requests, and may only grant access to selected affiliations. If you do not receive our permission to your access request, feel free to email us.) Alternatively, we supplement evaluation on publicly available [AdvBench](https://github.com/llm-attacks/llm-attacks/blob/main/data/advbench/harmful_behaviors.csv) to facilitate reproducibility.**
 
   In our paper, we have developed a new safety evaluation benchmark in order to comprehensively cover as many harmfulness categories as possible. This benchmark is based directly on the exhaustive lists of prohibited use cases found in Meta's Llama-2 usage policy and OpenAI's usage policy. Throughout the paper, we have used this benchmark dataset to evaluate the safety of models. 
 
-  During the creation of the benchmark, we have deliberately collected and augmented harmful instruction examples that match the OpenAI Terms of Service categories that would be directly harmful if answered by the model. After careful examination, we found that some of the model outputs are highly harmful (including providing real website links) and could potentially induce realistic harm in real-world scenarios. Consequently, based on this thorough inspection, we have decided not to publicly release our benchmark questions at this stage, but may re-evaluate in the future.
+  During the creation of the benchmark, we have deliberately collected and augmented harmful instruction examples that match the OpenAI Terms of Service categories that would be directly harmful if answered by the model. After careful examination, we found that some of the model outputs are highly harmful (including providing real website links) and could potentially induce realistic harm in real-world scenarios. Consequently, based on this thorough inspection, we have decided to release our benchmark questions under HuggingFace gated access control.
 
   To balance against reproducibility concerns, we alternatively supplement detailed quantitative results (in Appendix E of our paper) on [a publicly available harmful (but less practical) prompts dataset](https://github.com/llm-attacks/llm-attacks/blob/main/data/advbench/harmful_behaviors.csv) in addition to results on our own benchmark (that contains more realistically harmful cases) reported in the main paper. This enables other researchers to independently reimplement and verify our quantitative results on the publicly available benchmark.
 
