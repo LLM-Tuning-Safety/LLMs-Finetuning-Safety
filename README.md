@@ -15,7 +15,7 @@
 
 <p align='center';>
 <b>
-<em>arXiv-Preprint, 2023</em> <br>
+<em>ICLR (oral), 2024</em> <br>
 </b>
 </p>
 <p align='center' style="text-align:center;font-size:2.5 em;">
